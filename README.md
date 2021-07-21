@@ -1,7 +1,7 @@
 # 2021暑假软件开发综合训练
 ### 课程资源下载地址
 
-https://2021-summer-term.github.io
+https://summer-term-2021.github.io/
 
 ### GitHub仓库地址
 
