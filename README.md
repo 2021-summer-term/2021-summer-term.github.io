@@ -5,4 +5,4 @@ https://summer-term-2021.github.io/
 
 ### GitHub仓库地址
 
-https://github.com/2021-summer-term/2021-summer-term.github.io.git
+https://github.com/summer-term-2021/summer-term-2021.github.io.git
